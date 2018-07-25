@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-setup(name='pipinstall_testing_v1',
+setup(name='pipinstalltestingv1',
       version='0.1',
       description='pipinstalltesting',
       url='http://github.com/storborg/funniest',
