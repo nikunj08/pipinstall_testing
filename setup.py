@@ -7,7 +7,7 @@ setup(name='pipinstalltesting',
       author='Nikunj',
       author_email='nikunjaggarwal08@gmail.com',
       license='Edge',
-      packages=find_packages(exclude=['test', 'test.*'])),
+      packages=find_packages(exclude=['test', 'test.*']),
       install_requires=[
           'requests',
       ],
